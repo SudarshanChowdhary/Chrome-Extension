@@ -2,11 +2,11 @@
 node_modules
 
 # production
-dist
-build
+# dist
+# build
 
 # secrets
-dev_auth_key.json
+# dev_auth_key.json
 
 # IntelliJ
 .idea/workspace.xml

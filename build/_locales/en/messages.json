@@ -1,0 +1,86 @@
+{
+   "extName": {
+      "message": "DFC",
+      "description": "DFC"
+   },
+   "extShortName": {
+      "message": "DFC",
+      "description": "DFC"
+   },
+   "extDesc": {
+      "message": "Decision Flowchart",
+      "description": "Decision Flowchart"
+   },
+   "reset": {
+      "message": "Reset",
+      "description": "reset auth token"
+   },
+   "search": {
+      "message": "Search",
+      "description": "search"
+   },
+   "clear": {
+      "message": "Clear",
+      "description": "clear"
+   },
+   "create": {
+      "message": "New",
+      "description": "create"
+   },
+   "copy": {
+      "message": "Copy",
+      "description": "copy"
+   },
+   "delete": {
+      "message": "Delete",
+      "description": "delete"
+   },
+   "search_text": {
+      "message": "Input search text",
+      "description": "input search text"
+   },
+   "search_result": {
+      "message": "Search",
+      "description": "search result"
+   },
+   "recent": {
+      "message": "Recent",
+      "description": "recent items"
+   },
+   "favorite": {
+      "message": "Favorite",
+      "description": "favorite items"
+   },
+   "type_folder": {
+      "message": "Folder",
+      "description": "file type folder"
+   },
+   "type_doc": {
+      "message": "Doc",
+      "description": "file type doc"
+   },
+   "type_sheet": {
+      "message": "Sheet",
+      "description": "file type spreadsheet"
+   },
+   "type_slide": {
+      "message": "Slide",
+      "description": "file type slide"
+   },
+   "type_form": {
+      "message": "Form",
+      "description": "file type form"
+   },
+   "type_drawing": {
+      "message": "Drawing",
+      "description": "file type drawing"
+   },
+   "lastViewedAt": {
+      "message": "Last Viewed At",
+      "description": "last viewed at"
+   },
+   "dateFormat": {
+      "message": "MMM D, YYYY",
+      "description": "date format"
+   }
+}
