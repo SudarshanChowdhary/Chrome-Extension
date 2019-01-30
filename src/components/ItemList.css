@@ -1,0 +1,25 @@
+:local(.scrollable) {
+  height: 400px;
+  padding-left:  15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+:local(.icon) {
+  margin: 20px;
+  width:  32px;
+  height: 32px;
+}
+
+:local(.item_row) {
+  margin-bottom: 0px !important;
+}
+
+:local(.loading) {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
